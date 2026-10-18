@@ -1,0 +1,23 @@
+@"
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de VS Code
+.vscode/
+
+# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos temporales del sistema
+*.log
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore
