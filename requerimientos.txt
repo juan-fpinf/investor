@@ -15,8 +15,6 @@ pandas==3.0.6
 peewee==4.5.3
 pillow==13.0.0
 platformdirs==4.13.4
-protobuf==7.36.2
-pycparser==3.11
 pyparsing==3.3.3
 python-dateutil==2.9.0.post0
 pytz==2026.5
